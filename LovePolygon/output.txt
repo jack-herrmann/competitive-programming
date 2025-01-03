@@ -1,0 +1,9 @@
+ada : 0
+isaac : 0
+bernhard : 1
+karl : 1
+leonard : 1
+pierre : 1
+sofia : 1
+emmy : 3
+3
